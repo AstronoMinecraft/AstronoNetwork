@@ -1,2 +1,2 @@
-# AstronoNetwork
-The Astrono Network issue and suggestion tracker!
+# Astrono Network Issue Tracker
+You can submit issues, balance and feature requests here.
